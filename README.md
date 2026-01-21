@@ -38,4 +38,4 @@ npm start / npm run build
 
 ### Meta
 
-Rathin R 
+Gangavaram Thapaswini Eesha Reddy
